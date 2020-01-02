@@ -8,7 +8,7 @@
 
 - `npm run server`
 
-> server is running at prt 4500
+> server is running at port 4500
 
 ## Api route
 
